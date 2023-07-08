@@ -1,0 +1,3 @@
+farm-haystack[preprocessing,faiss,inference,file-conversion,pdf]
+awslambdaric
+boto3

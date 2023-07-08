@@ -1,0 +1,4 @@
+farm-haystack[preprocessing,faiss,inference,file-conversion,pdf]
+awslambdaric
+PyPDF2
+boto3
