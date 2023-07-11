@@ -1,5 +1,5 @@
 
-# Chat paper - QA tool with serverless Haystack/ChatGPT deployment in AWS (Lambda Container)
+# Chat paper - document question answering tool with serverless Haystack/ChatGPT deployment in AWS (Lambda Container)
 
 This project is a question answering tool that allows to ask questions about uploaded to S3 bucket papers (or any other pdf files).
 
