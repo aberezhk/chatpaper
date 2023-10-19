@@ -16,7 +16,7 @@ Additionally, a basic user interface is provided through an HTML/JS file.
 
 This project does not involve training any models from scratch. **Pre-trained models from OpenAI** are used, with an API_KEY enabling access to the necessary resources.
 
-You can try out the project [here and talk to published articles of Dr. Keith Raymond Harris](https://www.kraymondharris.me/research/ask-my-articles)
+You can try out the project [here and talk to published articles of Dr. Keith Raymond Harris](https://www.kraymondharris.me/research/ask-my-papers)
 
 ## Project Structure
 The code is organized in three folders.
